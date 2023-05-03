@@ -32,7 +32,7 @@ I couldn’t find any easy-to-use, either commercially available or open source,
 
 # To-Use:
 
-1. Download the ‘iSeq-master’ file and place it at the Desktop. Unzip samtools, IGVtools and bowtie2 within the folder.
+1. Download all contents of the repository, and place in folder called ‘iSeq-master’. Place iSeq-master on the Desktop. Unzip samtools, IGVtools and bowtie2 within the folder.
 
 2. Open the terminal (you can use the Search function in Mac to locate it, just search for ‘terminal’)
 
